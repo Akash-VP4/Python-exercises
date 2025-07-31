@@ -1,0 +1,1 @@
+Write a single line of code displaying the number 42.
