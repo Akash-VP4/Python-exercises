@@ -1,0 +1,1 @@
+Write a sum_primes function returning the sum of every prime number strictly inferior to its single parameter.
