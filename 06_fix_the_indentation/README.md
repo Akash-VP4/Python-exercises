@@ -1,0 +1,1 @@
+In the given snippet, there's a bug: there's no indentation.

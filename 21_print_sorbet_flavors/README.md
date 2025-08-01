@@ -1,0 +1,1 @@
+Provide a script printing every possible sorbet duos from a given list of flavors.

@@ -1,0 +1,1 @@
+Write a function giving the longest word in a given text.

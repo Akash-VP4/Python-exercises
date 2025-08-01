@@ -1,0 +1,1 @@
+Provide a script printing every possible pairs of two different letters.
