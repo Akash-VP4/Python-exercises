@@ -1,0 +1,1 @@
+Write a program which reads and prints the content of the words.txt file. That's all. I'll put the file is in the same directory as your code, so no absolute path required, just "words.txt" (or "./words.txt").
